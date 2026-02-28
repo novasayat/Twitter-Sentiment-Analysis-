@@ -54,3 +54,8 @@ export TWITTER_BEARER_TOKEN="your_token_here"
 ## Note on security
 
 Do not hardcode API keys/tokens in notebook or source files. Use environment variables.
+
+## If you only care about the old one-file flow
+
+Open `Twitter_Sentiment_Analysis.ipynb` and run it directly.
+You can ignore `src/` and `tests/` completely if you only want notebook usage.
